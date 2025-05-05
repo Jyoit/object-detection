@@ -1,0 +1,8 @@
+Flask==2.3.3
+gspread==5.12.0
+google-auth==2.23.4
+opencv-python==4.8.1.78
+ultralytics==8.0.196
+pyttsx3==2.90
+pygame==2.5.2
+pandas==2.1.1
